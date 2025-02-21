@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import logging
-import sys
 from material_mechanics.materials.material_law import HookesLaw
 
 # ====================

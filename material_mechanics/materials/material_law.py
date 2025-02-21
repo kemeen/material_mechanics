@@ -6,7 +6,6 @@ This module holds possible material laws
 import logging
 import numpy as np
 
-from ..tools import force_symmetry
 
 
 # ====================
